@@ -25,4 +25,4 @@ Sapu Judol adalah sebuah ekstensi browser (Google Chrome/Brave/Edge) yang secara
   - Tools: Google Colab, VSCode, dan Postman.
  
 ## Tim dan perang anggota
-![Gambar Contoh](https://via.placeholder.com/150)
+![Gambar Contoh](https://github.com/Extension-Sapu-Judol/Extension-Sapu-Judol/blob/main/Screenshot%20from%202025-06-14%2000-07-14.png)
